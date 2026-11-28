@@ -1,13 +1,6 @@
 :root {
   color-scheme: light;
-  font-family:
-    Inter,
-    "Noto Sans JP",
-    "Yu Gothic UI",
-    system-ui,
-    -apple-system,
-    BlinkMacSystemFont,
-    sans-serif;
+  font-family: Inter, "Noto Sans JP", "Yu Gothic UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   color: #20242d;
   background: #ecebe7;
   font-synthesis: none;
